@@ -20,7 +20,7 @@ class SetupDevelop(develop):
 # The distribution setup configuration
 setup(
     name='dotteddict',
-    version='2016.3.11',
+    version='2016.3.14',
     description='Dictionary that allows nested dotting',
     author='lnsy.brd',
     author_email='lnsy.brd@gmail.com',
